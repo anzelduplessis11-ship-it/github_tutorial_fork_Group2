@@ -1,5 +1,5 @@
 # AI 4 Africa Workshop Starter Repo
-
+Hello i am Zintle ,and who Are you?
 <p align="center">
   <a href="https://github.com/AI4Africa-MBZUAI-ALA/github_tutorial/fork">
     <img src="https://img.shields.io/badge/Fork%20this%20repo-Start%20here-brightgreen?style=for-the-badge" alt="Fork this repo" />
@@ -10,7 +10,7 @@ do yall like my hair ?!
 
 
 🚀 Welcome to the starter repo for the AI 4 Africa workshop.
-
+Hope it will help
 This repository is designed for beginners. It teaches collaboration first and
 machine learning second.
 
