@@ -211,3 +211,4 @@ connect AI with sustainability and agriculture in Africa.
 ## 🔗 Official Site
 
 - https://ai4africamp.com/
+- hello
