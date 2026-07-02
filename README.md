@@ -7,7 +7,7 @@
 </p>
 
 🚀 Welcome to the starter repo for the AI 4 Africa workshop.
-
+Hope it will help
 This repository is designed for beginners. It teaches collaboration first and
 machine learning second.
 
