@@ -7,7 +7,10 @@ Hello this is lynn's message
     <img src="https://img.shields.io/badge/Fork%20this%20repo-Start%20here-brightgreen?style=for-the-badge" alt="Fork this repo" />
   </a>
 </p>
-nsxjdscqbi
+
+do yall like my hair ?!  
+
+
 🚀 Welcome to the starter repo for the AI 4 Africa workshop.
 Hope it will help
 This repository is designed for beginners. It teaches collaboration first and
