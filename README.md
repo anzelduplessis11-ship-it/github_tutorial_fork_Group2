@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Fork%20this%20repo-Start%20here-brightgreen?style=for-the-badge" alt="Fork this repo" />
   </a>
 </p>
-
+nsxjdscqbi
 🚀 Welcome to the starter repo for the AI 4 Africa workshop.
 
 This repository is designed for beginners. It teaches collaboration first and
