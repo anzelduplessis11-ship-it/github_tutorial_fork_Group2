@@ -27,7 +27,7 @@ The goal is to predict whether a garden plot needs:
 - `medium` water
 - `high` water
 
-The input features stay simple and relatable:
+The input features stay simple and relatable:scm-history-item:/Users/anzelduplessis/github_tutorial_fork_Group2?%7B%22repositoryId%22%3A%22scm0%22%2C%22historyItemId%22%3A%22161e95ddd229c824f6d8f10b0d71454a645a3660%22%2C%22historyItemParentId%22%3A%227b208a17562a2e0f001764bfa02b0a0fb445e21e%22%2C%22historyItemDisplayId%22%3A%22161e95d%22%7D
 
 - weather
 - temperature
